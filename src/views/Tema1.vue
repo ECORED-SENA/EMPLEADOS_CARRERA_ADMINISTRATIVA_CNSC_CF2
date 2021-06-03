@@ -25,7 +25,7 @@
     .bloque-texto-a.bloque-imagen.color-primario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          img(src='@/assets/curso/img2.jpg', alt='Texto que describa la imagen')
+          //- // img(src='@/assets/curso/img2.jpg', alt='Texto que describa la imagen')
         .col-lg-8
           .bloque-texto-a__texto.p-5
             .h3 Entendemos el desempeño como aquello que realiza o debe realizar el servidor de carrera administrativa o en periodo de prueba, en las actividades propias del empleo, para el logro de los objetivos institucionales.
@@ -162,23 +162,25 @@
     #t_1_5.titulo-segundo
       .h2 1.5 Impedimentos y recusaciones de los responsables del proceso de evaluación.
     p.mb-5 En el artículo 18, del Acuerdo 617 de 2018, se indica
-    .bloque-texto-b.color-secundario.p-4
-        .bloque-texto-b__texto
-          i.fas.fa-quote-left
-          span.mb-2 
-            p  “Los impedimentos y recusaciones se tramitarán y decidirán en los términos previstos en el artículo 38 y siguientes del Decreto Ley 760 de 2005 y en lo no previsto, se aplicará el Código de Procedimiento Administrativo y de lo Contencioso Administrativo - CPACA - o las disposiciones que lo modifiquen, aclaren o sustituyan”.
-          i.fas.fa-quote-right
-          p.text-end
-            b -  Artículo 18,  Acuerdo 617 de 2018
+    .row.mb-5.justify-content-center
+      .col-lg-10.mb-5.mb-lg-0
+        .bloque-texto-b.color-secundario.p-4
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              span.mb-2 Los impedimentos y recusaciones se tramitarán y decidirán en los términos previstos en el artículo 38 y siguientes del Decreto Ley 760 de 2005 y en lo no previsto, se aplicará el Código de Procedimiento Administrativo y de lo Contencioso Administrativo - CPACA - o las disposiciones que lo modifiquen, aclaren o sustituyan”.
+              i.fas.fa-quote-right
+              p.text-end
+                b -  Artículo 18,  Acuerdo 617 de 2018
     p.mb-5 En cuanto a los impedimentos y recusaciones, el Artículo 38 del Decreto Ley, establece:
-    .bloque-texto-b.color-secundario.p-4
-        .bloque-texto-b__texto
-          i.fas.fa-quote-left
-          span.mb-2 
-            p  “los responsables de evaluar el desempeño laboral de los empleados de carrera o en período de prueba deberán declararse impedidos cuando se encuentren vinculados con estos por matrimonio o por unión permanente o tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil o exista enemistad grave con el empleado a evaluar o cuando exista cualquier causal de impedimento o hecho que afecte su objetividad”.
-          i.fas.fa-quote-right
-          p.text-end
-            b -  Artículo 38 del Decreto Ley
+    .row.mb-5.justify-content-center
+      .col-lg-10.mb-5.mb-lg-0
+        .bloque-texto-b.color-secundario.p-4
+            .bloque-texto-b__texto
+              i.fas.fa-quote-left
+              span.mb-2 Los responsables de evaluar el desempeño laboral de los empleados de carrera o en período de prueba deberán declararse impedidos cuando se encuentren vinculados con estos por matrimonio o por unión permanente o tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil o exista enemistad grave con el empleado a evaluar o cuando exista cualquier causal de impedimento o hecho que afecte su objetividad.
+              i.fas.fa-quote-right
+              p.text-end
+                b -  Artículo 38 del Decreto Ley
     #t_1_6.titulo-segundo
       .h2 1.6 Instrumentos de evaluación
     p.mb-5 La Comisión Nacional del Servicio Civil (CNSC) ha dispuesto el aplicativo EDL APP, como instrumento para llevar a cabo el proceso evaluación del desempeño laboral en las entidades públicas que aún no cuentan con sistemas propios aprobados por la Comisión. 
