@@ -12,7 +12,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Aspectos generales del Sistema Tipo de Evaluación de la CNSC.
+      h1 Aspectos generales del Sistema Tipo de Evaluación de la CNSC
     .row.mb-5 
       .col-lg-6 
         p El Sistema de Evaluación Tipo de la Comisión Nacional del Servicio Civil (CNSC), reglamentado por el Acuerdo 6176 de 2018, establece los elementos para la evaluación de desempeño laboral de los servidores de carrera administrativa y en periodo de prueba, mediante la aplicación de diferentes fases y con la participación de diversos actores. Este sistema debe ser adoptado por las entidades del Estado que aún no cuenten con sistemas propios.
@@ -41,7 +41,7 @@
             p Es una herramienta de gestión objetiva y permanente, encaminada a valorar las contribuciones individuales y el comportamiento del evaluado, midiendo el impacto positivo o negativo en el logro de las metas institucionales. Esta evaluación de tipo individual permite así mismo, medir el desempeño institucional.
     #t_1_3.titulo-segundo
       .h2 1.3 Actores del proceso de evaluación del desempeño
-    p.mb-5 La finalidad de la Evaluación del Desempeño, del Sistema Tipo de la CNSC, se encuentra definida en el Artículo 1 del Acuerdo 617 de 2018 de la siguiente forma: 
+    p.mb-5 Los actores que hacen parte del proceso de Evaluación del Desempeño Laboral (EDL) del Sistema tipo de la CNSC, son quienes actúan de acuerdo con las funciones que les corresponde.A continuación, se relacionan:  
     .tarjetas-cyan.d-flex.p-2.mb-5
       .card-cyan.align-items-center.d-flex.p-3.m-1.mb-3
         img(src='@/assets/curso/img3.svg', alt='Texto que describa la imagen' style='width:84px').d-inline-block
@@ -71,7 +71,7 @@
         img(src='@/assets/curso/img9.svg', alt='Texto que describa la imagen' style='width:84px').d-inline-block
         p.d-inline-block.ps-3.my-auto  
           b Comisión de personal
-    p.mb-5 A continuación, las obligaciones de los actores del proceso de EDL, definidas en el anexo técnico del Acuerdo 6176 de 2018:Z
+    p.mb-5 A continuación, las obligaciones de los actores del proceso de EDL, definidas en el anexo técnico del Acuerdo 6176 de 2018:
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Comisión Nacional del Servicio Civil" :icono="require('@/assets/curso/img10.svg')")
         .row
@@ -161,7 +161,7 @@
       |El empleado de libre nombramiento y remoción de la comisión evaluadora tiene la responsabilidad de evaluar, si el empleado de carrera, provisional o en período de prueba, pierde la calidad de jefe inmediato.
     #t_1_5.titulo-segundo
       .h2 1.5 Impedimentos y recusaciones de los responsables del proceso de evaluación.
-    p.mb-5 En el artículo 18, del Acuerdo 617 de 2018, se indica
+    p.mb-5 En el artículo 18, del Acuerdo 617 de 2018, se indica: 
     .row.mb-5.justify-content-center
       .col-lg-10.mb-5.mb-lg-0
         .bloque-texto-b.color-secundario.p-4
@@ -169,7 +169,7 @@
               i.fas.fa-quote-left
               span.mb-2 Los impedimentos y recusaciones se tramitarán y decidirán en los términos previstos en el artículo 38 y siguientes del Decreto Ley 760 de 2005 y en lo no previsto, se aplicará el Código de Procedimiento Administrativo y de lo Contencioso Administrativo - CPACA - o las disposiciones que lo modifiquen, aclaren o sustituyan”.
               i.fas.fa-quote-right
-              p.text-end
+              p.text-end.mb-0
                 b -  Artículo 18,  Acuerdo 617 de 2018
     p.mb-5 En cuanto a los impedimentos y recusaciones, el Artículo 38 del Decreto Ley, establece:
     .row.mb-5.justify-content-center
@@ -179,7 +179,7 @@
               i.fas.fa-quote-left
               span.mb-2 Los responsables de evaluar el desempeño laboral de los empleados de carrera o en período de prueba deberán declararse impedidos cuando se encuentren vinculados con estos por matrimonio o por unión permanente o tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil o exista enemistad grave con el empleado a evaluar o cuando exista cualquier causal de impedimento o hecho que afecte su objetividad.
               i.fas.fa-quote-right
-              p.text-end
+              p.text-end.mb-0
                 b -  Artículo 38 del Decreto Ley
     #t_1_6.titulo-segundo
       .h2 1.6 Instrumentos de evaluación
