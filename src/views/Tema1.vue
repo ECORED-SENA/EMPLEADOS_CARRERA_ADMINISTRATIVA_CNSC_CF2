@@ -42,6 +42,7 @@
     #t_1_3.titulo-segundo
       .h2 1.3 Actores del proceso de evaluación del desempeño
     p.mb-5 Los actores que hacen parte del proceso de Evaluación del Desempeño Laboral (EDL) del Sistema tipo de la CNSC, son quienes actúan de acuerdo con las funciones que les corresponde.A continuación, se relacionan:  
+    .h5 Actores del proceso de evaluación del desempeño 
     .tarjetas-cyan.d-flex.p-2.mb-5
       .card-cyan.align-items-center.d-flex.p-3.m-1.mb-3
         img(src='@/assets/curso/img3.svg', alt='Texto que describa la imagen' style='width:84px').d-inline-block

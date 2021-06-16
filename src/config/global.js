@@ -334,14 +334,15 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Aspectos generales del sistema tipo de evaluación de la CNSC.”',
+      texto:
+        'Acuerdo 6176 de 2018. [Comisión Nacional del servicio civil] Por el cual se establece el Sistema Tipo de Evaluación del Desempeño Laboral de los Empleados Públicos de Carrera Administrativa y en Período de Prueba. Octubre 10 de 2018”',
       tipo: 'PDF',
       descarga:
         'downloads/Acuerdo_6176_de_2018_Comisión_Nacional_del_Servicio_Civil.pdf',
     },
     {
       texto:
-        'Anexo técnico del sistema tipo de evaluación del desempeño laboral de los empleados publicos de carrera administrativa y en periódo de prueba.',
+        'CNC (2018). Anexo Técnico del Sistema Tipo de Evaluación del Desempeño Laboral de los Empleados Públicos de Carrera',
       tipo: 'PDF',
       descarga: '/downloads/Anexo 20181000006176.pdf',
     },
