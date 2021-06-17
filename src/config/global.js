@@ -165,7 +165,7 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Yuly Rey'],
+        nombre: ['Yuly Andrea Rey Quiñonez'],
         cargo: 'Diseño web',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -342,7 +342,7 @@ export default {
     },
     {
       texto:
-        'CNC (2018). Anexo Técnico del Sistema Tipo de Evaluación del Desempeño Laboral de los Empleados Públicos de Carrera',
+        'CNC (2018). Anexo Técnico del Sistema Tipo de Evaluación del Desempeño Laboral de los Empleados Públicos de Carrera Administrativa y en Período de Prueba.',
       tipo: 'PDF',
       descarga: '/downloads/Anexo 20181000006176.pdf',
     },
