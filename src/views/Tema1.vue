@@ -41,7 +41,7 @@
             p Es una herramienta de gestión objetiva y permanente, encaminada a valorar las contribuciones individuales y el comportamiento del evaluado, midiendo el impacto positivo o negativo en el logro de las metas institucionales. Esta evaluación de tipo individual permite así mismo, medir el desempeño institucional.
     #t_1_3.titulo-segundo
       .h2 1.3 Actores del proceso de evaluación del desempeño
-    p.mb-5 Los actores que hacen parte del proceso de Evaluación del Desempeño Laboral (EDL) del Sistema tipo de la CNSC, son quienes actúan de acuerdo con las funciones que les corresponde.A continuación, se relacionan:  
+    p.mb-5 Los actores que hacen parte del proceso de Evaluación del Desempeño Laboral (EDL) del Sistema tipo de la CNSC, son quienes actúan de acuerdo con las funciones que les corresponde. A continuación, se relacionan:  
     .h5 Actores del proceso de evaluación del desempeño 
     .tarjetas-cyan.d-flex.p-2.mb-5
       .card-cyan.align-items-center.d-flex.p-3.m-1.mb-3
@@ -86,9 +86,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h3 Jefe de la entidad
-            p 
-              b “Desarrollar su propio Sistema de Evaluación del Desempeño Laboral y en el entretanto adoptar el Sistema Tipo de Evaluación del Desempeño Laboral establecido por la CNSC” 
-              b-none (Anexo técnico del acuerdo 6176 de 2018).
+            p “Desarrollar su propio Sistema de Evaluación del Desempeño Laboral y en el entretanto adoptar el Sistema Tipo de Evaluación del Desempeño Laboral establecido por la CNSC” 
+              | (Anexo técnico del acuerdo 6176 de 2018).
           .col-md-6
             figure
               img(src='@/assets/curso/img18.jpg', alt='Texto que describa la imagen')
@@ -146,8 +145,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             .h3 Comisión de personal
-            p 
-              b “Resolver en única instancia, las reclamaciones que formulen los evaluados inconformes con los compromisos. (Ley 909 de 2004, Artículo 16)”.
+            p “Resolver en única instancia, las reclamaciones que formulen los evaluados inconformes con los compromisos. (Ley 909 de 2004, Artículo 16)”.
           .col-md-6
             figure
               img(src='@/assets/curso/img23.jpg', alt='Texto que describa la imagen')
@@ -168,7 +166,7 @@
         .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              span.mb-2 Los impedimentos y recusaciones se tramitarán y decidirán en los términos previstos en el artículo 38 y siguientes del Decreto Ley 760 de 2005 y en lo no previsto, se aplicará el Código de Procedimiento Administrativo y de lo Contencioso Administrativo - CPACA - o las disposiciones que lo modifiquen, aclaren o sustituyan”.
+              span.mb-2 Los impedimentos y recusaciones se tramitarán y decidirán en los términos previstos en el artículo 38 y siguientes del Decreto Ley 760 de 2005 y en lo no previsto, se aplicará el Código de Procedimiento Administrativo y de lo Contencioso Administrativo - CPACA - o las disposiciones que lo modifiquen, aclaren o sustituyan.
               i.fas.fa-quote-right
               p.text-end.mb-0
                 b -  Artículo 18,  Acuerdo 617 de 2018
@@ -210,12 +208,8 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
   data: () => ({
     // variables de vue
   }),
